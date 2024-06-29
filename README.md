@@ -1,3 +1,4 @@
+![logo](https://github.com/Rajkumarsolanki7/Rajkumarsolanki7/blob/main/1.png)
 <h1 align="center">Hi 👋, I'm Rajkumar solanki</h1>
 <h3 align="center">Passionate Data Analyst committed to transforming complex datasets into actionable insights that drive strategic business decisions.</h3>
 
