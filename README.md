@@ -1,6 +1,7 @@
 ![logo](https://github.com/Rajkumarsolanki7/Rajkumarsolanki7/blob/main/1.png)
 <h1 align="center">Hi 👋, I'm Rajkumar solanki</h1>
 <h3 align="center">Passionate Data Analyst committed to transforming complex datasets into actionable insights that drive strategic business decisions.</h3>
+<img align="right" alt = "coding" width ="300" src = "https://assets-global.website-files.com/5c19020c997c25514d17d86f/60c0d9460c02947666c0d70c_Data%20report.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajkumarsolanki7&label=Profile%20views&color=0e75b6&style=flat" alt="rajkumarsolanki7" /> </p>
